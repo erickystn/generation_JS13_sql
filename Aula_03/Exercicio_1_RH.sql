@@ -1,16 +1,18 @@
  /*ATIVIDADE 01
 
-Crie um banco de dados para um serviço de RH de uma empresa, 
-	onde o sistema trabalhará com as informações dos COLABORADORESes desta empresa. 
-Crie uma tabela de COLABORADORESes e 
-	determine 5 atributos relevantes dos COLABORADORESes para se trabalhar com o serviço deste RH.
-Insira nesta tabela no mínimo 5 dados (registros).
-Faça um SELECT que retorne todes os COLABORADORESes com o salário maior do que 2000.
-Faça um SELECT que retorne todes os COLABORADORESes com o salário menor do que 2000.
-Ao término atualize um registro desta tabela através de uma query de atualização.
+Crie um banco de dados para um serviço de RH de uma empresa,
+ onde o sistema trabalhará com as informações dos COLABORADORES
+  desta empresa.Crie uma tabela de COLABORADORESes e determine 
+  5 atributos relevantes dos COLABORADORES para se trabalhar 
+com o serviço deste RH. Insira nesta tabela no mínimo 5 dados (registros).
+Faça um SELECT que retorne todes os COLABORADORESes 
+com o salário maior do que 2000. Faça um SELECT que retorne 
+todes os COLABORADORESes com o salário menor do que 2000. Ao término
+ atualize um registro desta tabela através de uma query de atualização.
 Salve todas as queries para cada um dos requisitos do 
 	exercício em um único script (arquivo .SQL) e 
-	coloque no seu Github pessoal, no repositório que você criou sobre Banco de dados.
+	coloque no seu Github pessoal, no repositório que 
+	você criou sobre Banco de dados.
 */
 
 CREATE DATABASE DB_RH;
