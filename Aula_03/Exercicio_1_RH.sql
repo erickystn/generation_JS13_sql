@@ -33,10 +33,11 @@ INSERT INTO COLABORADORES (nome,cargo, salario, data_admissao) VALUES
 ( "Diego Lima", "Designer UX",1999.00, "2023-08-01"),
 ("Elena Mendes", "Especialista em SEO",6000.00, "2020-03-12");
 
-SELECT * FROM COLABORADORESES WHERE salario > 2000;
-SELECT * FROM COLABORADORESES WHERE salario < 2000;
+SELECT * FROM COLABORADORES;
+SELECT * FROM COLABORADORES WHERE salario > 2000;
+SELECT * FROM COLABORADORES WHERE salario < 2000;
 
-UPDATE COLABORADORESES SET nome = "Carla Sousa" where id=2;
+UPDATE COLABORADORES SET nome = "Carla Sousa" where id=3;
 
 
 
